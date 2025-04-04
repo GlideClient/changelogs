@@ -29,11 +29,23 @@
             "type": 0
         },
         {
-            "text": "HUD: Added new Hud styles",
+            "text": "Client: Added UI sounds",
             "type": 0
         },
         {
-            "text": "Menus: GuiIngameMenu now uses the glide style",
+            "text": "HUD: Added new HUD styles",
+            "type": 0
+        },
+        {
+            "text": "HUD: Added Blurred background option",
+            "type": 0
+        },
+        {
+            "text": "HUD: Added Mojangles font option",
+            "type": 0
+        },
+        {
+            "text": "Menus: GuiIngameMenu now uses the Glide style",
             "type": 0
         },
         {
@@ -41,7 +53,11 @@
             "type": 0
         },
         {
-            "text": "Mod Menu: 10 new themes",
+            "text": "Cosmetics: Made Custom capes better",
+            "type": 0
+        },
+        {
+            "text": "Mod Menu: 10+ new themes",
             "type": 0
         },
         {
@@ -49,11 +65,11 @@
             "type": 0
         },
         {
-            "text": "Mod Menu: Baack buttons in more places",
-            "type": 1
+            "text": "Mod Menu: New Minigames to play in the client while you wait for games to start (bird and clickyCat)",
+            "type": 0
         },
         {
-            "text": "Mod Menu: Back buttons in mod settings",
+            "text": "Mod Menu: Back buttons in more places",
             "type": 1
         },
         {
@@ -62,6 +78,14 @@
         },
         {
             "text": "Mod Menu: Made it so when you search it will search also for common aliases of the mod",
+            "type": 1
+        },
+        {
+            "text": "Mod Menu: you can now just Type to search without engaging the search bar",
+            "type": 1
+        },
+        {
+            "text": "Mod Menu: you can now use arrow keys to scroll up and down",
             "type": 1
         },
         {
@@ -85,11 +109,11 @@
             "type": 1
         },
         {
-            "text": "Client: Fixed compatability with linux (experimental)",
+            "text": "Client: Made GlideClient compatible with linux and macOS",
             "type": 1
         },
         {
-            "text": "HudEditor: Made it so you can use a shift key modifier to disable snapping and make movement/scaling more precise",
+            "text": "HudEditor: Made it so you can use a shift key modifier to disable snapping and make movement/scaling more precise and delete mods by pressing backspace",
             "type": 1
         },
         {
@@ -106,10 +130,6 @@
         },
         {
             "text": "Mods: Remove ViaVersion since it impacts performance",
-            "type": 2
-        },
-        {
-            "text": "Client: Remove Music player since it impacts performance",
             "type": 2
         },
         {
